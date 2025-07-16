@@ -31,4 +31,3 @@ if __name__ == "__main__":
             print("Error: Input must be a non-negative integer.")
     else:
         print("Error: No input argument provided.")
-
